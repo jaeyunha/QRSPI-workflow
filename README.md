@@ -326,7 +326,6 @@ The skills are project-agnostic. You may want to customize:
 
 ## Philosophy
 
-alt text
 This workflow is built on three principles from Dex Horthy's talk on evolving RPI:
 
 1. **Don't use prompts for control flow** — Use control flow for control flow. If-statements are more reliable than hoping the model follows instruction #67 out of 85.
