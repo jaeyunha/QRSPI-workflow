@@ -322,6 +322,7 @@ The skills are project-agnostic. You may want to customize:
 2. **Ticket prefix** — Default uses `ENG-XXXX`. If your project uses a different prefix (e.g., `PROJ-`, `FE-`), the skills will follow whatever convention you use.
 3. **Sub-agent types** — The research step references `codebase-locator`, `codebase-analyzer`, and `codebase-pattern-finder` agents from [HumanLayer's agent definitions](https://github.com/humanlayer/humanlayer/tree/main/.claude/agents). If your setup uses different agent types, update `qrspi_research/SKILL.md`.
 4. **Verification commands** — The plan template uses `make check`, `make test`, `make build`. Update to match your project's commands.
+5. **Implementation** — QRSPI covers planning (steps 1-5). For implementation, you can find all of HumanLayer's Claude Code custom commands — including `/implement_plan` for executing plans — at [HumanLayer's commands](https://github.com/humanlayer/humanlayer/tree/main/.claude/commands).
 
 ## Philosophy
 
