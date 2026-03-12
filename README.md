@@ -339,8 +339,8 @@ This workflow is built on three principles from Dex Horthy's talk on evolving RP
 - Workflow methodology: [Dex Horthy](https://x.com/dexhorthy) and the [HumanLayer](https://humanlayer.dev) team
 - Original RPI framework: HumanLayer's open-source Claude Code commands
 - "12 Factor Agents" and context engineering: Dex Horthy
-- "Do not outsource the thinking": Jake from Netflix
-- "Design Concept": Matt Poco
+- "[Do not outsource the thinking](https://www.youtube.com/watch?v=eIoohUmYpGI)": Jake from Netflix
+- "[Design Concept](https://x.com/mattpocockuk/status/2020828724740923456)": Matt Pocock
 - Instruction budget research: [Kyle](https://humanlayer.dev/blog) citing Arxiv research on LLM instruction following
 
 ## License
