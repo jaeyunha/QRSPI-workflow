@@ -4,6 +4,8 @@
 
 From RPI (Research, Plan, Implement) to QRSPI (Questions, Research, Spec/Design, Plan, Implement) — inspired by [Dex Horthy's talk](https://x.com/dexhorthy) on why monolithic AI coding prompts fail and how to fix them.
 
+> **Note:** This is not an official HumanLayer project. The HumanLayer team has not open-sourced their QRSPI workflow yet, so I built these skills based on the concepts from Dex's talks. Feedback is welcome — feel free to open [issues](https://github.com/jaeyunha/QRSPI-workflow/issues) or submit a [pull request](https://github.com/jaeyunha/QRSPI-workflow/pulls).
+
 ## The Problem
 
 Most AI coding workflows use a single mega-prompt for planning that tries to do everything at once: gather context, research the codebase, present design options, get feedback, outline phases, and write the plan. This hits three fundamental limits:
