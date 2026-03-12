@@ -1,6 +1,6 @@
 ---
 name: qrspi_design
-description: Interactive design discussion — align on what we're building (QRSPI step 3 of 5)
+description: Interactive design + structure/spec discussion — align on what we're building (QRSPI step 3 of 5)
 ---
 
 # Design Discussion
